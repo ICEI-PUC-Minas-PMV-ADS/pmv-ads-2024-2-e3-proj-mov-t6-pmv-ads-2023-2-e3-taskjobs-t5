@@ -1,11 +1,11 @@
-Especificações do Projeto
+# Especificações do Projeto
 Pré-requisitos: Documentação de Contexto
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-Personas
+# Personas
 Persona	Sexo	Gênero	Idade	Estado cívil	Tem filhos?	Profissão	Renda	Escolaridade	Residente	Hobbies
 Gabriel	Masculino	Cisgênero	35 anos	Casado	Sim	Policial militar	<= 3 mil	Graduação	Vitória da Conquista - BA	Jogar boliche, tocar violão e assistir filmes de CSI
 Julia	Feminino	Cisgênero	17 anos	Solteira	Não	Estudante	n/a	Ensino médio incompleto	São Caetano do Sul - SP	Assistir videos curtos de maquiagem, sair com os amigos e andar de bicicleta
@@ -52,7 +52,7 @@ Usar o seguinte modelo:
 
 Indicadores de Desempenho Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori.
 
-Requisitos
+# Requisitos
 Requisitos Funcionais
 ID	Descrição do Requisito	Prioridade
 RF-001	Permitir que os usuários se cadastrem na plataforma com informações pessoais e áreas de conhecimento	ALTA
