@@ -104,10 +104,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Diagrama de casos de uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos.
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
+![Diagrama de caso de uso (1)](https://github.com/user-attachments/assets/d65eb127-ac61-4670-af92-c373d17afdcd)
 
 # Matriz de Rastreabilidade
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio.
