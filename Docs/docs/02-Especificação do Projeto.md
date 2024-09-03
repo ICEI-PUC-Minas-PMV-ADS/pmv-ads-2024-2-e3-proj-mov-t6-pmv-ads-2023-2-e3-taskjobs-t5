@@ -5,28 +5,26 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 # Personas
-Persona	Sexo	Gênero	Idade	Estado cívil	Tem filhos?	Profissão	Renda	Escolaridade	Residente	Hobbies
-Gabriel	Masculino	Cisgênero	35 anos	Casado	Sim	Policial militar	<= 3 mil	Graduação	Vitória da Conquista - BA	Jogar boliche, tocar violão e assistir filmes de CSI
-Julia	Feminino	Cisgênero	17 anos	Solteira	Não	Estudante	n/a	Ensino médio incompleto	São Caetano do Sul - SP	Assistir videos curtos de maquiagem, sair com os amigos e andar de bicicleta
-Ivo	Masculino	Não binário	45 anos	Divorciado	Não	Gerente de Marketing	<= 10 mil	Pós graduação	Cuiaba - MT	Viajar, cozinhar e ler livros de negócios
-Lucas	Masculino	Transgênero	26 anos	Casado	Sim	Professor de história	<= 3 mil	Mestrado	Belo Horizonte - MG	Jogar jogos de tabuleiro, estar em família e assistir corridas de carro
-Miguel	Masculino	Cisgênero	14 anos	Solteiro	Não	Estudante	n/a	Ensino fundamental incompleto	Rio Branco - AC	Andar de skate, tocar guitarra e fazer doces
-Luara	Feminino	Transgênero	28 anos	Solteira	Sim	Analista de Sistemas	<= 6 mil	Graduação	Fortaleza - CE	Pintura, Corrida e Tocar piano
-Histórias de Usuários
+| **Persona**               | **João Silva**               | **Maria Oliveira**            | **Lucas Santos**              | **Ana Costa**                 | **Pedro Almeida**             |
+|---------------------------|------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| **Idade**                 | 23 anos                      | 35 anos                       | 42 anos                       | 20 anos                       | 30 anos                       |
+| **Gênero**                | Masculino                    | Feminino                      | Masculino                     | Feminino                      | Masculino                     |
+| **Profissão**             | Recém-formado em Engenharia de Software | Analista de Marketing, migrando para UX Design | Gerente de Projetos em busca de recolocação | Estudante de Administração     | Designer Gráfico Freelancer  |
+| **Localização**           | São Paulo, SP                | Rio de Janeiro, RJ            | Porto Alegre, RS              | Belo Horizonte, MG            | Curitiba, PR                  |
+| **Interesse no App**      | Organizar candidaturas e lembrar entrevistas marcadas | Facilitar o acompanhamento de candidaturas em nova carreira | Centralizar informações de entrevistas e manter organização | Controlar datas, horários e detalhes de entrevistas de estágio | Organizar candidaturas, visualizar status e se preparar para entrevistas |
+
+# Histórias de Usuários
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-EU COMO... PERSONA	QUERO/PRECISO ... FUNCIONALIDADE	PARA ... MOTIVO/VALOR
-Usuário do sistema	Registrar minhas tarefas	Não esquecer de fazê-las
-Administrador	Alterar permissões	Permitir que possam administrar contas
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+| **Eu, como**                | **Quero/Preciso**                                                           | **Para**                                                                                              |
+|-----------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| João Silva                  | Uma funcionalidade que me permita registrar e organizar empresas e entrevistas. | Acompanhar eficientemente o status de cada candidatura e garantir que não perca prazos importantes. |
+| Maria Oliveira              | Visualizar o progresso das minhas candidaturas e preparar-me para as entrevistas. | Facilitar minha transição de carreira para UX Design e manter uma visão clara sobre minhas oportunidades na nova área. |
+| Lucas Santos                | Uma ferramenta que ajude a centralizar e acompanhar todas as informações sobre entrevistas e empresas. | Manter uma organização eficaz durante o processo de recolocação e não perder oportunidades valiosas. |
+| Ana Costa                   | Controlar datas e horários das entrevistas de estágio e registrar detalhes importantes. | Assegurar que estou bem preparada e organizada durante minha busca por estágio.                    |
+| Pedro Almeida              | Acompanhar o status das minhas candidaturas e visualizar o progresso das entrevistas agendadas. | Preparar-me melhor e otimizar minha busca por oportunidades de trabalho fixo, mantendo controle sobre todas as informações relevantes. |
 
-Links Úteis:
 
-# Histórias de usuários com exemplos e template
-Como escrever boas histórias de usuário (User Stories)
-User Stories: requisitos que humanos entendem
-Histórias de Usuários: mais exemplos
-9 Common User Story Mistakes
 # Modelagem do Processo de Negócio
 Análise da Situação Atual
 Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional.
@@ -53,23 +51,21 @@ Indicadores de Desempenho Obs.: todas as informações para gerar os indicadores
 
 # Requisitos
 Requisitos Funcionais
-ID	Descrição do Requisito	Prioridade
-RF-001	Permitir que os usuários se cadastrem na plataforma com informações pessoais e áreas de conhecimento	ALTA
-RF-002	Permitir que os usuários criem e editem seus perfis, incluindo descrição e histórico de atividades	ALTA
-RF-003	Permitir que usuários não cadastrados busquem por temas ou áreas de conhecimento na interface principal	ALTA
-RF-004	Exibir uma lista de conhecimentos disponíveis com detalhes sobre o provedor e formas de contato	ALTA
-RF-005	Permitir contato direto entre usuários interessados e provedores de conhecimento via e-mail ou telefone	ALTA
-RF-006	Permitir filtragem de resultados de busca por área de conhecimento e disponibilidade	MÉDIA
-RF-007	Permitir que os usuários avaliem e comentem sobre as experiências de aprendizado ou compartilhamento	MÉDIA
-RF-008	Enviar notificações por e-mail ou push sobre novos pedidos de conhecimento ou contatos recebidos	MÉDIA
+|ID    | Descrição                | Prioridade |
+|-------|---------------------------------|----|
+| RF-01 | Um usuário deve poder fazer login no sistema usando seu nome de usuário e senha. | Alta | 
+| RF-02 | A criação do “Card” de tarefa deverá conter um título. | Alta |
+| RF-03 | Usuário terá acesso a um calendário para ver e definir prazos das vagas| Alta |
+| RF-04 | O usuário poderá adicionar comentários à tarefa | Alta |
+| RF-05 | A aplicação permitirá ao usuário a customização dos “Cards” | Alta |
+| RF-06 | A aplicação permitirá ao usuário a customização do plano de fundo | Média |
+| RF-07 |  A aplicação terá a função de alertas e lembretes das vagas | Média |
+
 # Requisitos Não Funcionais
-ID	Descrição do Requisito	Prioridade
-RNF-001	O sistema deve ser intuitivo e fácil de navegar, proporcionando uma boa experiência do usuário	ALTA
-RNF-002	O sistema deve responder a solicitações de busca e filtro em menos de 5 segundos	ALTA
-RNF-003	O sistema deve ser escalável para suportar aumento de usuários e acessos simultâneos	ALTA
-RNF-004	O sistema deve implementar criptografia de dados, garantindo segurança e privacidade dos usuários	ALTA
-RNF-005	O sistema deve ser desenvolvido de forma modular, permitindo fácil manutenção e atualização	MÉDIA
-RNF-006	A aplicação deve ser compatível com os principais sistemas operacionais do mercado.	ALTA
+|ID      | Descrição               |Prioridade |
+|--------|-------------------------|----|
+| RNF-01 | A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.| Alta  | 
+| RNF-02 |Usuário terá segurança em seu login, ao tentar se conectar com login ou senha errado não acessaram o site e terá retorno de erro| Média | 
 
 # Restrições
 O projeto está restrito pelos itens apresentados na tabela a seguir.
