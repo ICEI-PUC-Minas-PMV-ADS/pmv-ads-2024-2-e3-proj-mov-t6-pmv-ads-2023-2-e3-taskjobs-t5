@@ -6,8 +6,7 @@
 
 `3º semestre/2024`
 
-O aplicativo proporcionará uma visão abrangente das finanças dos motoristas, auxiliando-os no controle de despesas, receitas e lucros líquidos. Com essas funcionalidades, os usuários poderão tomar decisões financeiras mais informadas e otimizar seus ganhos como motoristas de aplicativo. Este projeto visa desenvolver um aplicativo de finanças destinado a usuários que trabalham com o aplicativo Uber e realizam corridas em geral.
-
+Este trabalho apresenta o desenvolvimento de um aplicativo voltado para o gerenciamento de entrevistas de emprego, visando auxiliar candidatos no acompanhamento e organização de suas candidaturas
 ## Integrantes
 
 * Bruno Cesar Dias Santos
