@@ -89,43 +89,25 @@ RE-04	A aplicação deve ser desenvolvida exclusivamente para dispositivos móve
     <tbody>
         <tr>
             <td>RE-01</td>
-            <td>O projeto deve ser entregue até o final do ano, com data limite em 15/12/2024.</td>
+            <td>O projeto deve ser entregue até o final do ano, com data limite em 08/12/2024.</td>
         </tr>
         <tr>
             <td>RE-02</td>
             <td>O desenvolvimento do aplicativo deve utilizar exclusivamente as tecnologias disponíveis no framework React Native.</td>
         </tr>
         <tr>
-            <td>RE-03</td>
-            <td>A equipe de desenvolvimento não pode subcontratar terceiros para a realização do trabalho.</td>
-        </tr>
         <tr>
-            <td>RE-04</td>
+            <td>RE-03</td>
             <td>A aplicação deve ser desenvolvida exclusivamente para dispositivos móveis (iOS e Android).</td>
         </tr>
         <tr>
-            <td>RE-05</td>
-            <td>A equipe deve seguir as diretrizes e melhores práticas recomendadas pela comunidade React Native.</td>
-        </tr>
         <tr>
-            <td>RE-06</td>
-            <td>O projeto deve ser compatível com as versões mais recentes das plataformas móveis no momento da entrega.</td>
-        </tr>
-        <tr>
-            <td>RE-07</td>
+            <td>RE-04</td>
             <td>O código-fonte deve ser armazenado e versionado em um repositório Git, com commits regulares.</td>
         </tr>
         <tr>
-            <td>RE-08</td>
-            <td>A entrega deve incluir uma documentação completa, incluindo manuais de usuário e documentação técnica.</td>
-        </tr>
-        <tr>
-            <td>RE-09</td>
-            <td>Não será permitida a inclusão de bibliotecas externas que não sejam amplamente reconhecidas e suportadas pela comunidade React Native.</td>
-        </tr>
-        <tr>
-            <td>RE-10</td>
-            <td>A equipe deve realizar testes rigorosos de usabilidade e desempenho antes da entrega final.</td>
+            <td>RE-05</td>
+            <td>A entrega deve incluir uma documentação completa, incluindo descrição e documentação técnica do projeto.</td>
         </tr>
     </tbody>
 </table>
