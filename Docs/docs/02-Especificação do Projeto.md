@@ -70,15 +70,9 @@ RNF-003	O sistema deve ser escalável para suportar aumento de usuários e acess
 RNF-004	O sistema deve implementar criptografia de dados, garantindo segurança e privacidade dos usuários	ALTA
 RNF-005	O sistema deve ser desenvolvido de forma modular, permitindo fácil manutenção e atualização	MÉDIA
 RNF-006	A aplicação deve ser compatível com os principais sistemas operacionais do mercado.	ALTA
+
 # Restrições
 O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-ID	Descrição da Restrição
-RE-01	O projeto deve ser entregue até o final do semestre letivo, com data limite em 23/06/2024.
-RE-02	O desenvolvimento do aplicativo deve utilizar exclusivamente as tecnologias disponíveis no framework selecionado.
-RE-03	A equipe de desenvolvimento não pode subcontratar terceiros para a realização do trabalho.
-RE-04	A aplicação deve ser desenvolvida exclusivamente para dispositivos móveis.
-
 <table border="1" cellpadding="10" cellspacing="0">
     <thead>
         <tr>
