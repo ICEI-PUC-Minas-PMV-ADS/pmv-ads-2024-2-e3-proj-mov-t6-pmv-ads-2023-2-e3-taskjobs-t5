@@ -113,6 +113,14 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 
 Exemplo de matriz de rastreabilidade
 
+# Matriz de Rastreabilidade
+
+| Atores           | Criar Perfil | Pesquisar Vagas | Inscrever-se em Vagas | Gerenciar Inscrições | Publicar Vagas | Avaliar Candidatos | Gerenciar Usuários | Gerar Relatórios |
+|------------------|--------------|-----------------|-----------------------|----------------------|----------------|--------------------|-------------------|-----------------|
+| **Candidato**    | X            | X               | X                     | X                    |                |                    |                   |                 |
+| **Empresa**      |              |                 |                       |                      | X              | X                  |                   |                 |
+| **Administrador**|              |                 |                       |                      |                |                    | X                 | X               |
+
 
 # Gerenciamento de Tempo
 Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
