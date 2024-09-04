@@ -43,11 +43,21 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 Processo 2
 
 # Indicadores de Desempenho
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores.
 
-Usar o seguinte modelo:
+# Diagrama de Caso de Uso
 
-Indicadores de Desempenho Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori.
+## Sistema de Mapeamento de Inscrições
+
+| Atores           | Casos de Uso                          |
+|------------------|---------------------------------------|
+| **Candidato**    | Criar perfil                           |
+|                  | Pesquisar vagas                        |
+|                  | Inscrever-se em vagas                  |
+|                  | Gerenciar inscrições                   |
+| **Empresa**      | Publicar vagas                         |
+|                  | Avaliar candidatos                     |
+| **Administrador**| Gerenciar usuários                     |
+|                  | Gerar relatórios                       |
 
 # Requisitos
 Requisitos Funcionais
