@@ -197,7 +197,15 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 ## Gestão de Orçamento
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t8-connectskill/assets/127440373/708f39c0-a521-45f5-a77d-0a26cac0404d)
+| **Descrição**        | **Valor (R$)** |
+|----------------------|----------------|
+| **Recursos Humanos**  | 300.000        |
+| **Hardware**          | 40.000         |
+| **Rede**              | 10.000         |
+| **Software**          | 20.000         |
+| **Serviços**          | 5.000          |
+| **TOTAL**             | **375.000**    |
+
 
 # Gestão de Orçamento
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
