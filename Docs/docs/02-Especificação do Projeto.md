@@ -103,7 +103,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | **Empresa**      |              |                 |                       |                      | X              | X                  |                   |                 |
 | **Administrador**|              |                 |                       |                      |                |                    | X                 | X               |
 
-## Descrição do Processo BPMN atual "FAZER"
+## Descrição do Processo BPMN atual
 
 ### 1. Página de Login
 - **Start Event:** O processo começa na página de login onde o usuário tem a opção de logar ou registrar-se na plataforma.
@@ -116,12 +116,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 - **Intermediate Event: Página Inicial**
 
 ### 3. Funcionalidades Disponíveis na Página Inicial
-- **Task: Registrar Interesse**
-  - O usuário pode registrar seus interesses na plataforma.
+- **Task: Adiocionar Card**
+  - O usuário pode registrar suas inscrições de emprego na plataforma.
 - **Task: Visualizar Perfil**
   - O usuário pode visualizar seu perfil e verificar suas informações.
-- **Task: Deletar Interesse**
-  - O usuário pode deletar seus interesses previamente registrados.
+- **Task: Deletar Card**
+  - O usuário pode deletar o card de inscrições previamente registrado.
 - **Task: Deslogar**
   - O usuário pode deslogar da plataforma.
 
