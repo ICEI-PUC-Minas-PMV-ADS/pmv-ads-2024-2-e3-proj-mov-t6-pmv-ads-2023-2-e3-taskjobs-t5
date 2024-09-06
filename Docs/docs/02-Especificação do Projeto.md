@@ -96,13 +96,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![Diagrama de caso de uso (1)](https://github.com/user-attachments/assets/d65eb127-ac61-4670-af92-c373d17afdcd)
 
 # Matriz de Rastreabilidade
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio.
-
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-Exemplo de matriz de rastreabilidade
-
-# Matriz de Rastreabilidade
 
 | Atores           | Criar Perfil | Pesquisar Vagas | Inscrever-se em Vagas | Gerenciar Inscrições | Publicar Vagas | Avaliar Candidatos | Gerenciar Usuários | Gerar Relatórios |
 |------------------|--------------|-----------------|-----------------------|----------------------|----------------|--------------------|-------------------|-----------------|
