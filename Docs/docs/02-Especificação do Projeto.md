@@ -25,27 +25,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Pedro Almeida              | Acompanhar o status das minhas candidaturas e visualizar o progresso das entrevistas agendadas. | Preparar-me melhor e otimizar minha busca por oportunidades de trabalho fixo, mantendo controle sobre todas as informações relevantes. |
 
 
-# Modelagem do Processo de Negócio
-Análise da Situação Atual
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional.
-
-Descrição Geral da Proposta
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
-Processo 1 – NOME DO PROCESSO
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN.
-
-Processo 1
-
-Processo 2 – NOME DO PROCESSO
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-Processo 2
-
-# Indicadores de Desempenho
-
-# Diagrama de Caso de Uso
-
 ## Sistema de Mapeamento de Inscrições
 
 | Atores           | Casos de Uso                          |
