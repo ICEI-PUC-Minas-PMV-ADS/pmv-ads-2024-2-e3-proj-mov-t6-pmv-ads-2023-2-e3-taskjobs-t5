@@ -183,11 +183,10 @@ Segue a representação visual do processo em BPMN: "FAZER"
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t8-connectskill/assets/94996003/ab41e73b-fb14-4a13-83db-f9601e9dbe61)
 
 
-# Gerenciamento de Projeto "FAZER"
+# Gerenciamento de Projeto 
+O gerenciamento será realizado por meio da ferramenta disponibilizada pelo Git: 
+https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1268
 
-O projeto será desenvolvido em etapas, onde a cada entrega haverá uma prioridade em foco. Ele será administrado por meio da designação de tarefas pela plataforma Trello, e qualquer necessidade de criar prototipagem ou wireframes será atendida utilizando o Figma.
-
-(https://trello.com/invite/b/wl1WNmiq/ATTI901c0ae89ee9162bf10fc3e337799066011507C9/etapa-2))
 
 ## Gerenciamento de Tempo
 
