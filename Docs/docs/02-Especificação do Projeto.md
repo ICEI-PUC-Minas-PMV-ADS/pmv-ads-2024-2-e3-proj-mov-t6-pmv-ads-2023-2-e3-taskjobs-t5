@@ -1,8 +1,6 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Este projeto tem como objetivo desenvolver um aplicativo móvel para ajudar candidatos a gerenciar de forma organizada suas candidaturas a vagas de emprego e entrevistas. O aplicativo permitirá o registro e acompanhamento de informações essenciais, como empresas em que o usuário se candidatou, status das candidaturas e lembretes para entrevistas agendadas. Com uma interface intuitiva e funcionalidades práticas, o sistema visa proporcionar uma experiência mais eficiente e menos estressante para quem busca uma nova oportunidade de trabalho, ajudando a otimizar o planejamento e a organização pessoal.
 
 # Personas
 | **Persona**               | **João Silva**               | **Maria Oliveira**            | **Lucas Santos**              | **Ana Costa**                 | **Pedro Almeida**             |
