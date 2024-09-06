@@ -188,10 +188,7 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1268
 
 ## Gerenciamento de Tempo
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t8-connectskill/assets/127440373/cc649bcd-3184-4f3b-af54-8589e5d45ddd)
-
+![image](https://github.com/user-attachments/assets/725898ae-9159-46c3-9c80-30b8abcf206d)
 
 ## Gestão de Orçamento
 
