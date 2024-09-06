@@ -195,12 +195,6 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t8-connectskill/assets/127440373/cc649bcd-3184-4f3b-af54-8589e5d45ddd)
 
 
-## Gerenciamento de Equipe
-
-O time será gerenciado por meio da ferramenta de atribuição, Jira. 
-https://connectskill.atlassian.net/jira/servicedesk/projects/SUP/boards/1
-
-
 ## Gestão de Orçamento
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t8-connectskill/assets/127440373/708f39c0-a521-45f5-a77d-0a26cac0404d)
