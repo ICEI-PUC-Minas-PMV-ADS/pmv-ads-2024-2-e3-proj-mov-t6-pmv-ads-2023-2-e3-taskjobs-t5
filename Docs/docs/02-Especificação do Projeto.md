@@ -55,39 +55,16 @@ Requisitos Funcionais
 | RNF-02 |Usuário terá segurança em seu login, ao tentar se conectar com login ou senha errado não acessaram o site e terá retorno de erro| Média | 
 
 # Restrições
+
 O projeto está restrito pelos itens apresentados na tabela a seguir.
-<table border="1" cellpadding="10" cellspacing="0">
-    <thead>
-        <tr>
-            <th>ID</th>
-            <th>Descrição da Restrição</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>RE-01</td>
-            <td>O projeto deve ser entregue até o final do ano, com data limite em 08/12/2024.</td>
-        </tr>
-        <tr>
-            <td>RE-02</td>
-            <td>O desenvolvimento do aplicativo deve utilizar exclusivamente as tecnologias disponíveis no framework React Native.</td>
-        </tr>
-        <tr>
-        <tr>
-            <td>RE-03</td>
-            <td>A aplicação deve ser desenvolvida exclusivamente para dispositivos móveis (iOS e Android).</td>
-        </tr>
-        <tr>
-        <tr>
-            <td>RE-04</td>
-            <td>O código-fonte deve ser armazenado e versionado em um repositório Git, com commits regulares.</td>
-        </tr>
-        <tr>
-            <td>RE-05</td>
-            <td>A entrega deve incluir uma documentação completa, incluindo descrição e documentação técnica do projeto.</td>
-        </tr>
-    </tbody>
-</table>
+
+| ID     | Descrição da Restrição                                                                                      |
+|--------|-------------------------------------------------------------------------------------------------------------|
+| RE-01  | O projeto deve ser entregue até o final do ano, com data limite em 08/12/2024.                               |
+| RE-02  | O desenvolvimento do aplicativo deve utilizar exclusivamente as tecnologias disponíveis no framework React Native. |
+| RE-03  | A aplicação deve ser desenvolvida exclusivamente para dispositivos móveis (iOS e Android).                   |
+| RE-04  | O código-fonte deve ser armazenado e versionado em um repositório Git, com commits regulares.                |
+| RE-05  | A entrega deve incluir uma documentação completa, incluindo descrição e documentação técnica do projeto.      |
 
 # Diagrama de casos de uso
 
@@ -154,14 +131,7 @@ Segue a representação visual do processo em BPMN:
    - **Task: Customizar Plano de Fundo:** O usuário poderá **personalizar o plano de fundo** da interface de acordo com suas preferências.
    - **Task: Visualizar e Gerenciar Alertas e Lembretes:** O sistema permite que o usuário configure e visualize **alertas e lembretes** para suas tarefas, ajudando a manter prazos.
 
-### 4. **Conexões com Outros Usuários**
-   - **Task: Visualizar Pessoas com Interesses em Comum:** O usuário pode visualizar outras pessoas que compartilham interesses semelhantes, especialmente em tarefas ou projetos.
-   - **Task: Solicitar Conexão com Outro Usuário:** Caso o usuário encontre alguém com quem gostaria de conectar, ele pode enviar uma solicitação.
-   - **Gateway: Resposta à Solicitação**
-     - **Se a resposta for positiva**, o usuário poderá compartilhar seus dados de contato e continuar a interação.
-     - **Se a resposta for negativa**, o usuário será notificado, e a conexão será cancelada.
-
-### 5. **Fim da Sessão**
+### 4. **Fim da Sessão**
    - **Task: Deslogar:** O usuário tem a opção de **deslogar** do sistema a qualquer momento.
    - **End Event: Fim da Sessão:** O processo se encerra quando o usuário opta por deslogar.
 
@@ -169,8 +139,7 @@ Segue a representação visual do processo em BPMN:
 1. **Início:** O processo começa com o **Login do Usuário**.
 2. **Página Inicial:** Se o login for bem-sucedido, o usuário é redirecionado para a **Página Inicial**, onde tem acesso a diversas funcionalidades.
 3. **Funcionalidades:** O usuário pode realizar atividades como a **criação e customização de cards**, **gerenciamento de prazos**, **personalização do sistema**, e **configuração de lembretes e alertas**.
-4. **Conexões com Outros Usuários:** O usuário pode interagir com outros usuários com interesses semelhantes, solicitando e gerenciando conexões.
-5. **Fim da Sessão:** O processo se encerra quando o usuário escolhe **deslogar** da plataforma.
+4. **Fim da Sessão:** O processo se encerra quando o usuário escolhe **deslogar** da plataforma.
 
 ### Diagrama BPMN "FAZER"
 
