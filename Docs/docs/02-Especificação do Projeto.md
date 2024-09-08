@@ -132,47 +132,46 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 Segue a representação visual do processo em BPMN:
 ![BPMN 2 0](https://github.com/user-attachments/assets/ea8b8af0-824c-4970-8792-e177242b4b78)
 
-## Descrição do Processo BPMN Situação Futura - "FAZER"
+**Descrição do Projeto BPMN**
 
-### 1. Página de Login
-- **Start Event:** O processo começa na página de login onde o usuário tem a opção de registrar ou logar na plataforma.
-- **Gateway: Informações Corretas?**
-  - **Registrar ou Logar:** O usuário pode escolher registrar ou logar.
-  - **Mensagem de Erro:** Se as informações fornecidas estiverem incorretas, uma mensagem de erro é exibida.
-  - **Recuperar Senha:** Se necessário, o usuário pode optar por recuperar a senha.
+### 1. **Página de Login**
+   - **Start Event:** O processo começa na **Página de Login**, onde o usuário é convidado a fazer login no sistema.
+   - **Task: Login do Usuário:** O usuário insere seu **nome de usuário** e **senha**.
+   - **Gateway: Informações Corretas?**
+     - **Se as informações forem corretas**, o usuário será direcionado à página inicial.
+     - **Se as informações forem incorretas**, uma **mensagem de erro** será exibida e o usuário poderá tentar novamente.
+   - **Task: Recuperar Senha** (Opcional): O usuário pode optar por **recuperar a senha** caso tenha esquecido, e então o fluxo retorna à verificação de informações.
 
-### 2. Página Inicial
-- Após o login bem-sucedido, o usuário é direcionado para a página inicial.
-- **Intermediate Event: Página Inicial**
+### 2. **Página Inicial**
+   - **Intermediate Event:** Após um login bem-sucedido, o usuário é direcionado à **Página Inicial**.
 
-### 3. Funcionalidades Disponíveis na Página Inicial
-- **Task: Registrar Interesse**
-  - O usuário pode registrar seus interesses na plataforma.
-- **Task: Visualizar Perfil**
-  - O usuário pode visualizar seu perfil e verificar suas informações.
-- **Task: Editar Perfil**
-  - O usuário pode editar as informações do seu perfil.
-- **Task: Pesquisar Interesses**
-  - O usuário pode pesquisar interesses de outras pessoas.
-- **Task: Editar Interesse**
-  - O usuário pode editar os interesses previamente registrados.
-- **Task: Deletar Interesse**
-  - O usuário pode deletar seus interesses previamente registrados.
+### 3. **Funcionalidades Disponíveis na Página Inicial**
+   - **Task: Criar um Card de Tarefa:** O usuário pode **criar um "Card" de tarefa**, inserindo um **título** para o mesmo.
+   - **Task: Acessar Calendário:** O usuário pode visualizar e definir prazos no **calendário** para as tarefas e atividades.
+   - **Task: Adicionar Comentários:** O usuário pode **adicionar comentários** nas tarefas já criadas para fornecer mais informações ou feedbacks.
+   - **Task: Customizar "Cards":** O usuário tem a opção de **customizar os "Cards"**, alterando informações como cor, tamanho ou estilo visual.
+   - **Task: Customizar Plano de Fundo:** O usuário poderá **personalizar o plano de fundo** da interface de acordo com suas preferências.
+   - **Task: Visualizar e Gerenciar Alertas e Lembretes:** O sistema permite que o usuário configure e visualize **alertas e lembretes** para suas tarefas, ajudando a manter prazos.
 
-### 4. Conexões com Outros Usuários
-- **Task: Visualizar Pessoa com Interesse em Comum**
-  - O usuário pode visualizar pessoas com interesses em comum.
-- **Task: Solicitar Conexão com a Pessoa**
-  - O usuário pode solicitar conexão com a pessoa.
-- **Gateway: Resposta?**
-  - **Compartilhar Dados de Contato:** Se a resposta for positiva, o usuário pode compartilhar dados de contato.
-  - **Cancelar Conexão:** Se a resposta for negativa, a conexão é cancelada.
+### 4. **Conexões com Outros Usuários**
+   - **Task: Visualizar Pessoas com Interesses em Comum:** O usuário pode visualizar outras pessoas que compartilham interesses semelhantes, especialmente em tarefas ou projetos.
+   - **Task: Solicitar Conexão com Outro Usuário:** Caso o usuário encontre alguém com quem gostaria de conectar, ele pode enviar uma solicitação.
+   - **Gateway: Resposta à Solicitação**
+     - **Se a resposta for positiva**, o usuário poderá compartilhar seus dados de contato e continuar a interação.
+     - **Se a resposta for negativa**, o usuário será notificado, e a conexão será cancelada.
 
-### 5. Fim da Sessão
-- **Task: Deslogar**
-  - O usuário pode deslogar da plataforma.
-- **End Event: Fim da Sessão**
-  - O processo termina quando o usuário escolhe deslogar da plataforma.
+### 5. **Fim da Sessão**
+   - **Task: Deslogar:** O usuário tem a opção de **deslogar** do sistema a qualquer momento.
+   - **End Event: Fim da Sessão:** O processo se encerra quando o usuário opta por deslogar.
+
+---
+
+### **Fluxo Completo do Processo**
+1. **Início:** O processo começa com o **Login do Usuário**.
+2. **Página Inicial:** Se o login for bem-sucedido, o usuário é redirecionado para a **Página Inicial**, onde tem acesso a diversas funcionalidades.
+3. **Funcionalidades:** O usuário pode realizar atividades como a **criação e customização de cards**, **gerenciamento de prazos**, **personalização do sistema**, e **configuração de lembretes e alertas**.
+4. **Conexões com Outros Usuários:** O usuário pode interagir com outros usuários com interesses semelhantes, solicitando e gerenciando conexões.
+5. **Fim da Sessão:** O processo se encerra quando o usuário escolhe **deslogar** da plataforma.
 
 ### Diagrama BPMN "FAZER"
 
