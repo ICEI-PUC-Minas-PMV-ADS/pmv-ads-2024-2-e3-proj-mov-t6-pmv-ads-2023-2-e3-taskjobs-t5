@@ -101,7 +101,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 | **Empresa**      |              |                 |                       |                      | X              | X                  |                   |                 |
 | **Administrador**|              |                 |                       |                      |                |                    | X                 | X               |
 
-## Descrição do Processo BPMN atual
+# Descrição do Processo BPMN atual
 
 ### 1. Página de Login
 - **Start Event:** O processo começa na página de login onde o usuário tem a opção de logar ou registrar-se na plataforma.
@@ -132,7 +132,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 Segue a representação visual do processo em BPMN:
 ![BPMN 2 0](https://github.com/user-attachments/assets/ea8b8af0-824c-4970-8792-e177242b4b78)
 
-**Descrição do Projeto BPMN**
+
+# Descrição do Projeto BPMN detalhado
 
 ### 1. **Página de Login**
    - **Start Event:** O processo começa na **Página de Login**, onde o usuário é convidado a fazer login no sistema.
@@ -163,8 +164,6 @@ Segue a representação visual do processo em BPMN:
 ### 5. **Fim da Sessão**
    - **Task: Deslogar:** O usuário tem a opção de **deslogar** do sistema a qualquer momento.
    - **End Event: Fim da Sessão:** O processo se encerra quando o usuário opta por deslogar.
-
----
 
 ### **Fluxo Completo do Processo**
 1. **Início:** O processo começa com o **Login do Usuário**.
