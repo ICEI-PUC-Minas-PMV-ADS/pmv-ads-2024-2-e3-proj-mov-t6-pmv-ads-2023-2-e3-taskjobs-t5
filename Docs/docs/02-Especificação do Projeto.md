@@ -143,9 +143,11 @@ Segue a representação visual do processo em BPMN:
 
 ### Diagrama BPMN "FAZER"
 
-Segue a representação visual do processo em BPMN: "FAZER"
+Segue a representação visual do processo em BPMN: 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t8-connectskill/assets/94996003/ab41e73b-fb14-4a13-83db-f9601e9dbe61)
+![BPMN 2 0 (1)](https://github.com/user-attachments/assets/13c5131d-c7e5-403a-8cc0-cb59587b314b)
+
+
 
 
 # Gerenciamento de Projeto 
