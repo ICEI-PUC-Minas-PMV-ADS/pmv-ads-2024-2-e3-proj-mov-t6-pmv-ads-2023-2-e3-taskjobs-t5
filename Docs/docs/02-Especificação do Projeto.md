@@ -141,7 +141,7 @@ Segue a representação visual do processo em BPMN:
 3. **Funcionalidades:** O usuário pode realizar atividades como a **criação e customização de cards**, **gerenciamento de prazos**, **personalização do sistema**, e **configuração de lembretes e alertas**.
 4. **Fim da Sessão:** O processo se encerra quando o usuário escolhe **deslogar** da plataforma.
 
-### Diagrama BPMN "FAZER"
+### Diagrama BPMN
 
 Segue a representação visual do processo em BPMN: 
 
