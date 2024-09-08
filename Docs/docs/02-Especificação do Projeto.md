@@ -56,7 +56,7 @@ Requisitos Funcionais
 
 # Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 | ID     | Descrição da Restrição                                                                                      |
 |--------|-------------------------------------------------------------------------------------------------------------|
